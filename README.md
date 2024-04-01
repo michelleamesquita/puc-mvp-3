@@ -4,6 +4,8 @@ Repositorio para trabalho da puc
 
 - Utilize o arquivo `previsao-brasileirao-2023.ipynb` para o trabalho de *Machine Learning*
 
+- Utilize o arquivo `covid_x_ray_deep_learning.ipynb` para o trabalho de *Deep Learning* 
+
 Links para Google Colab:
 
 Projeto A
